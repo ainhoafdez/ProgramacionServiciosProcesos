@@ -1,0 +1,70 @@
+#1758186100
+history
+#1758186121
+export HISTSIZE=10000
+#1758186130
+export HISTFILESIZE=20000
+#1758186138
+export HISTTIMEFORMAT="%F %T "
+#1758186143
+history
+#1758186321
+nano ~/.bachrc
+#1758186352
+sudo del bachrc
+#1758186379
+history
+#1758186386
+export HISTSIZE=10000
+#1758186391
+export HISTFILESIZE=20000
+#1758186398
+export HISTTIMEFORMAT="%F %T "
+#1758186400
+history
+#1758186411
+nano ~/.bashrc
+#1758186503
+uname -a
+#1758186508
+uname -r
+#1758186535
+df -h
+#1758186676
+du --help
+#1758186836
+du -sh /etc
+#1758186860
+sudo du -sh /etc
+#1758189111
+ps aux
+#1758189113
+top
+#1758189126
+clear
+#1758189132
+htop
+#1758189156
+top
+#1758189254
+sudo apt install htop
+#1758189284
+htop
+#1758189338
+ps -lax
+#1758189550
+pstree
+#1758189952
+history -a > history.txt
+#1758190022
+nano ~/.bash_history
+#1758190784
+htop -t
+#1758190900
+ps
+#1758190961
+ps -lax | grep tty
+#1758191932
+history -a > history.txt
+#1758191935
+nano ~/.bash_history
