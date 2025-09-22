@@ -100,14 +100,14 @@ pstree
     
 10. Lanza el comando `ping` contra `google.com` en segundo plano (&) y obtén su identificador de proceso (PID).
 ```bash
-ping google.com > &
+ping google.com > salida.txt &
 ```
     
 11. Finaliza el proceso de Firefox usando su PID.
 ```bash
 ps -e | grep firefox
 ```
-    
+
 12. Vuelve a lanzarlo y esta vez deténlo, luego reactívalo.
 ```bash
 # Inicio del servidor
