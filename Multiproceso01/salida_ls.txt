@@ -1,0 +1,18 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: F679-6DEF
+
+ Directorio de C:\Users\ferna\IdeaProjects\Multiproceso01
+
+16/10/2025  11:10    <DIR>          .
+14/10/2025  13:53    <DIR>          ..
+09/10/2025  11:58               344 .gitignore
+16/10/2025  11:10    <DIR>          .idea
+16/10/2025  11:10                 0 errores.txt
+09/10/2025  12:39               433 Multiproceso01.iml
+16/10/2025  10:47    <DIR>          out
+16/10/2025  10:47               488 ping_127.txt
+16/10/2025  10:47               397 ping_localhost.txt
+16/10/2025  11:10                 0 salida_ls.txt
+16/10/2025  11:10    <DIR>          src
+               6 archivos          1.662 bytes
+               5 dirs  801.274.396.672 bytes libres
